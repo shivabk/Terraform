@@ -1,0 +1,5 @@
+CostCenter=1293
+Environment=Production
+Name=project-vpc
+Project=K8s
+name=terraform_vpc
